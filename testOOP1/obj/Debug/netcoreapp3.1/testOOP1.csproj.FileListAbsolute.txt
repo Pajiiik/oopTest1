@@ -1,0 +1,15 @@
+G:\PRG\testOOP1\testOOP1\bin\Debug\netcoreapp3.1\testOOP1.exe
+G:\PRG\testOOP1\testOOP1\bin\Debug\netcoreapp3.1\testOOP1.deps.json
+G:\PRG\testOOP1\testOOP1\bin\Debug\netcoreapp3.1\testOOP1.runtimeconfig.json
+G:\PRG\testOOP1\testOOP1\bin\Debug\netcoreapp3.1\testOOP1.runtimeconfig.dev.json
+G:\PRG\testOOP1\testOOP1\bin\Debug\netcoreapp3.1\testOOP1.dll
+G:\PRG\testOOP1\testOOP1\bin\Debug\netcoreapp3.1\testOOP1.pdb
+G:\PRG\testOOP1\testOOP1\obj\Debug\netcoreapp3.1\testOOP1.csprojAssemblyReference.cache
+G:\PRG\testOOP1\testOOP1\obj\Debug\netcoreapp3.1\testOOP1.Form1.resources
+G:\PRG\testOOP1\testOOP1\obj\Debug\netcoreapp3.1\testOOP1.csproj.GenerateResource.cache
+G:\PRG\testOOP1\testOOP1\obj\Debug\netcoreapp3.1\testOOP1.AssemblyInfoInputs.cache
+G:\PRG\testOOP1\testOOP1\obj\Debug\netcoreapp3.1\testOOP1.AssemblyInfo.cs
+G:\PRG\testOOP1\testOOP1\obj\Debug\netcoreapp3.1\testOOP1.csproj.CoreCompileInputs.cache
+G:\PRG\testOOP1\testOOP1\obj\Debug\netcoreapp3.1\testOOP1.dll
+G:\PRG\testOOP1\testOOP1\obj\Debug\netcoreapp3.1\testOOP1.pdb
+G:\PRG\testOOP1\testOOP1\obj\Debug\netcoreapp3.1\testOOP1.genruntimeconfig.cache
